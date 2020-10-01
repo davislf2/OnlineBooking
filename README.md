@@ -9,7 +9,7 @@ This project belongs to the subject SWEN90016 Software Processes and Management 
 
 
 
-## Environment installation
+## Environment installation view
 
 ```Sh
 # You have to install python3.6
